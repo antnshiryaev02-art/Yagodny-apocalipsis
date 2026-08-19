@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"d847bcceb481771b","type":"file","file":"Ягодное вампиры/Османы/Палач/Азраб (палач).md","x":569,"y":0,"width":400,"height":400},
+		{"id":"cf7d3e4354c713f1","type":"file","file":"Ягодное вампиры/Османы/Кади/Кади (Судья).md","x":569,"y":640,"width":400,"height":400},
+		{"id":"c80ae7f7a44f6ab4","type":"file","file":"Ягодное вампиры/Валахия/Господарь.md","x":2637,"y":-400,"width":400,"height":400},
+		{"id":"e8e68d13251f0fdb","type":"file","file":"Ягодное вампиры/Османы/Султан/Султан.md","x":1800,"y":-800,"width":400,"height":400},
+		{"id":"f57a0f9c399d469a","type":"file","file":"Ягодное вампиры/Османы/Начальник тайной службы.md","x":1080,"y":-1560,"width":400,"height":400},
+		{"id":"eda73db353dd7cd9","type":"file","file":"Ягодное вампиры/Валахия/Разведчик Валахии.md","x":3920,"y":173,"width":400,"height":400},
+		{"id":"0375963a2b2ff837","type":"file","file":"Ягодное вампиры/Валахия/Король Венгрии/Король Венгрии.md","x":3520,"y":-1411,"width":400,"height":400},
+		{"id":"e7857d3c07f0e185","type":"file","file":"Ягодное вампиры/Валахия/Воевода Венгрии.md","x":3798,"y":-427,"width":400,"height":400},
+		{"id":"be217e1a59761151","type":"file","file":"Ягодное вампиры/Валахия/Инженер.md","x":3998,"y":-1011,"width":400,"height":400},
+		{"id":"25520c4030c4e9ac","type":"file","file":"Ягодное вампиры/Валахия/Воин Венгрии 1.md","x":4320,"y":-1760,"width":400,"height":400},
+		{"id":"a7893f28d9bf7036","type":"file","file":"Ягодное вампиры/Валахия/Воин Валахии Шпион.md","x":3200,"y":373,"width":400,"height":400},
+		{"id":"615cd02d2b4355ed","type":"file","file":"Ягодное вампиры/Валахия/Священник/Священник.md","x":2637,"y":-1411,"width":400,"height":400},
+		{"id":"a799d3566d2f3bcd","type":"file","file":"Ягодное вампиры/Валахия/Помощник священника.md","x":2637,"y":-2080,"width":400,"height":400},
+		{"id":"eccaeafbd899be3a","type":"file","file":"Ягодное вампиры/Османы/Бей 4.md","x":569,"y":1360,"width":400,"height":400},
+		{"id":"61b8b612425c5078","type":"file","file":"Ягодное вампиры/Вампиры/Патриарх.md","x":569,"y":-827,"width":400,"height":400},
+		{"id":"cee8c281263398d7","type":"file","file":"Ягодное вампиры/Османы/Целитель/Целитель.md","x":1800,"y":640,"width":400,"height":400},
+		{"id":"cb434a68a5e4e52f","type":"file","file":"Ягодное вампиры/Османы/Бей 3.md","x":569,"y":2040,"width":400,"height":400},
+		{"id":"77aa778f36b560ed","type":"file","file":"Ягодное вампиры/Османы/Разведчик.md","x":1160,"y":2040,"width":400,"height":400},
+		{"id":"d6f9f2482e35d8b1","type":"file","file":"Ягодное вампиры/Османы/Бей 2.md","x":1720,"y":2040,"width":400,"height":400},
+		{"id":"5cb9f1bc97cd9108","type":"file","file":"Ягодное вампиры/Османы/Силахдар Ага (Начальник гвардии).md","x":2000,"y":1480,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"560c9ea5a0f6e079","fromNode":"cf7d3e4354c713f1","fromSide":"bottom","toNode":"eccaeafbd899be3a","toSide":"top","label":"Дает поручения на задержание"},
+		{"id":"33dae07475a349dd","fromNode":"e8e68d13251f0fdb","fromSide":"left","toNode":"61b8b612425c5078","toSide":"right","label":"Пленник \nУльтиматум Валахии"},
+		{"id":"f83c04e260d0d137","fromNode":"61b8b612425c5078","fromSide":"bottom","toNode":"d847bcceb481771b","toSide":"top","label":"Рецепт кровавого меча\nобещание потока жертв"},
+		{"id":"d928731efbbe4d4d","fromNode":"d847bcceb481771b","fromSide":"bottom","toNode":"cf7d3e4354c713f1","toSide":"top","label":"Дает деньги за людоловство"},
+		{"id":"a12fe0c10fb2616c","fromNode":"eccaeafbd899be3a","fromSide":"right","toNode":"cee8c281263398d7","toSide":"bottom","label":"Арест за колдовство"},
+		{"id":"27fa059b292ed821","fromNode":"cee8c281263398d7","fromSide":"top","toNode":"d847bcceb481771b","toSide":"right","label":"Превращение крови в железо"},
+		{"id":"cf9dfdd85b6f2768","fromNode":"cf7d3e4354c713f1","fromSide":"right","toNode":"cee8c281263398d7","toSide":"left","label":"Вынесение приговора"},
+		{"id":"dd652a6d214d6d0d","fromNode":"e8e68d13251f0fdb","fromSide":"top","toNode":"f57a0f9c399d469a","toSide":"right","label":"узнать систему защиты Валахии\nВыявить нелояльных"},
+		{"id":"128bfb6b7e414aa1","fromNode":"eccaeafbd899be3a","fromSide":"bottom","toNode":"cb434a68a5e4e52f","toSide":"top","label":"арест за ...."},
+		{"id":"e941a762e63a1a0b","fromNode":"e7857d3c07f0e185","fromSide":"left","toNode":"c80ae7f7a44f6ab4","toSide":"right","label":"Ненавидит\nВыставляет в плохом свете"},
+		{"id":"18ed1774d7d91ef1","fromNode":"cee8c281263398d7","fromSide":"top","toNode":"e8e68d13251f0fdb","toSide":"bottom","label":"Лечение"}
+	]
+}
